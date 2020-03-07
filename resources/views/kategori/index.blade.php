@@ -1,5 +1,7 @@
 @extends('layouts.admin')
 
+@section('menu_kategori', 'active')
+
 @section('content')
     <div class="container" >
         <div class="row" >
