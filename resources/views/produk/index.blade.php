@@ -14,7 +14,7 @@
                             <td>Harga</td>
                             <td>Diskon</td>
                             <td>Kategori</td>
-                            <td>Deskripsi</td>
+                            <td>Keterangan</td>
                             
                             <td width="15%">Edit</td>
                         </tr>
