@@ -38,7 +38,7 @@
         <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
-        <a href="{{route('home')}}" class="nav-link">Homo</a>
+        <a href="{{route('home')}}" class="nav-link">Homo</a> 
       </li>
       <li class="nav-item d-none d-sm-inline-block">
         <a href="{{route('produk.index')}}" class="nav-link">Product</a>
